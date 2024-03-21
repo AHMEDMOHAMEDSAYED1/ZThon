@@ -1,6 +1,6 @@
-FROM zilzalll/zthon:slim-buster
+FROM AHMEDMOHAMEDSAYED1/zthon:slim-buster
 
-RUN git clone https://github.com/Zilzalll/ZThon.git /root/zira
+RUN git clone https://github.com/AHMEDMOHAMEDSAYED1/ZThon.git /root/zira
 
 WORKDIR /root/zira
 
